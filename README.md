@@ -1,7 +1,7 @@
-### Hi there, I'm Alexander Ivanov 👋
+### Всем Привет! Я Александр 👋
 
-Since the beginning of 2023 I've been actively studying Data analysis, Python and SQL. Recently I've successfully finished Yandex Practicum 7 months data analysis course.\
-You can check here some of the projects I made during studying at Yandex Practicum: https://github.com/AlexResearcher/data_analysis. \
-I've more than 6 years experience in investment consultancy and analysis but i've switched to more desirable field which is data analysis.\
-I'm actively seeking for a job in data analysis and will continue to improve my skills and knowledge in this field.
+Я аналитик данных с опытом в продуктовых метриках и разработке ИИ-агентов. Сейчас работаю аналитиком данных в Сбере, где занимаюсь анализом эффективности коммуникаций, поиском аномалий в данных, подготовкой выборок, исследованием метрик и созданием ИИ-агентов на Python с использованием LangChain, LangGraph и GigaChat.
+Обучаюсь в магистратуре НИЯУ МИФИ по направлению “Науки о данных и искусственный интеллект, специальность - ML-инженер”, выпуск — 2027.
+Успешно прошел несколько курсов в Яндекс Практикуме, в том числе по Анализу данных, Математике для Data Science и анализа данных.
+Профессиональный фокус - это задачи по глубокому анализу и исследованию данных.
 
